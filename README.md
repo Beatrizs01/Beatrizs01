@@ -1,10 +1,10 @@
 
 
-<h2 align="left">Olá Pessoal :wave:, Me chamo Beatriz Santos!</h2>
+<h2 align="left">Olá Pessoal :wave:, me chamo Beatriz Santos!</h2>
 
 ###
 
-<p align="left">:computer: Sou desenvolvedora de software jr. e esse aqui é o meu novo perfil.<br>:sunglasses: Me acompanhe nessa nova jornada!</p>
+<p align="left">:computer: Sou dev jr. e esse aqui é o meu novo perfil.<br>:wrench: Sou formada em Eng. Elétrica c/ Computação<br>:sparkling_heart: Apaixonada por javascript e node.js, mas aprendendo e desenvolvendo um sentimento por C# e .NET<br>:sunglasses: Me acompanhe nessa nova jornada! </p>
 
 ###
 
@@ -60,7 +60,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Beatrizs01&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=nightowl&locale=pt-br&hide_border=true&order=1" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beatrizs01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
+  
 ###
