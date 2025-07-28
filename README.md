@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">:computer: Sou dev jr. e esse aqui é o meu novo perfil.<br>:wrench: Sou formada em Eng. Elétrica c/ Computação<br>:sparkling_heart: Apaixonada por javascript e node.js, mas aprendendo e desenvolvendo um sentimento por C# e .NET<br>:sunglasses: Me acompanhe nessa nova jornada! </p>
+<p align="left">:computer: Sou dev jr. e esse aqui é o meu novo perfil.<br>:wrench: Sou formada em Eng. Elétrica c/ Computação<br>:sparkling_heart: Apaixonada por javascript e node.js. <br>:sunglasses: Me acompanhe nessa nova jornada! </p>
 
 ###
 
@@ -19,10 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt="dotnetcore logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker logo"  />
   <img width="10" />
